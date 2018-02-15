@@ -1,0 +1,7 @@
+D:\Programs\_3_52_21\_3_52_21\bin\Debug\_3_52_21.exe.config
+D:\Programs\_3_52_21\_3_52_21\bin\Debug\_3_52_21.exe
+D:\Programs\_3_52_21\_3_52_21\bin\Debug\_3_52_21.pdb
+D:\Programs\_3_52_21\_3_52_21\obj\Debug\_3_52_21.csproj.CoreCompileInputs.cache
+D:\Programs\_3_52_21\_3_52_21\obj\Debug\_3_52_21.exe
+D:\Programs\_3_52_21\_3_52_21\obj\Debug\_3_52_21.pdb
+D:\Programs\_3_52_21\_3_52_21\obj\Debug\_3_52_21.csprojResolveAssemblyReference.cache

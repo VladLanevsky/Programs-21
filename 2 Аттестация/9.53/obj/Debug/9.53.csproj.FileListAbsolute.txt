@@ -1,0 +1,14 @@
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\bin\Debug\9.53.exe.config
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\bin\Debug\9.53.exe
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\bin\Debug\9.53.pdb
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\bin\Debug\DataGridLibrary.dll
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\bin\Debug\ToolsLibrary.dll
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\bin\Debug\DataGridLibrary.pdb
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\bin\Debug\ToolsLibrary.pdb
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\obj\Debug\9.53.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\obj\Debug\_9._53.Form1.resources
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\obj\Debug\_9._53.Properties.Resources.resources
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\obj\Debug\9.53.csproj.GenerateResource.Cache
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\obj\Debug\9.53.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\obj\Debug\9.53.exe
+C:\Users\Andre\source\repos\lanevskiV\Attest2\9.53\obj\Debug\9.53.pdb

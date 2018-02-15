@@ -1,0 +1,7 @@
+D:\Programs\_5_21\_5_21\bin\Debug\_5_21.exe.config
+D:\Programs\_5_21\_5_21\bin\Debug\_5_21.exe
+D:\Programs\_5_21\_5_21\bin\Debug\_5_21.pdb
+D:\Programs\_5_21\_5_21\obj\Debug\_5_21.csproj.CoreCompileInputs.cache
+D:\Programs\_5_21\_5_21\obj\Debug\_5_21.exe
+D:\Programs\_5_21\_5_21\obj\Debug\_5_21.pdb
+D:\Programs\_5_21\_5_21\obj\Debug\_5_21.csprojResolveAssemblyReference.cache

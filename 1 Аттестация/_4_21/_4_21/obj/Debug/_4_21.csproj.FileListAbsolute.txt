@@ -1,0 +1,7 @@
+D:\Programs\_4_21\_4_21\bin\Debug\_4_21.exe.config
+D:\Programs\_4_21\_4_21\bin\Debug\_4_21.exe
+D:\Programs\_4_21\_4_21\bin\Debug\_4_21.pdb
+D:\Programs\_4_21\_4_21\obj\Debug\_4_21.csprojResolveAssemblyReference.cache
+D:\Programs\_4_21\_4_21\obj\Debug\_4_21.csproj.CoreCompileInputs.cache
+D:\Programs\_4_21\_4_21\obj\Debug\_4_21.exe
+D:\Programs\_4_21\_4_21\obj\Debug\_4_21.pdb

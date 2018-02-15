@@ -1,0 +1,10 @@
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\bin\Debug\6_21.exe.config
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\bin\Debug\6_21.exe
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\bin\Debug\6_21.pdb
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\obj\Debug\6_21.csprojResolveAssemblyReference.cache
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\obj\Debug\_6_21.Form1.resources
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\obj\Debug\_6_21.Properties.Resources.resources
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\obj\Debug\6_21.csproj.GenerateResource.Cache
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\obj\Debug\6_21.csproj.CoreCompileInputs.cache
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\obj\Debug\6_21.exe
+D:\Programs\Vl_L_gr_2.1\6_21\6_21\obj\Debug\6_21.pdb

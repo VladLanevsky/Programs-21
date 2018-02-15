@@ -1,0 +1,6 @@
+D:\Programs\_3_83_21\_3_83_21\bin\Debug\_3_83_21.exe.config
+D:\Programs\_3_83_21\_3_83_21\bin\Debug\_3_83_21.exe
+D:\Programs\_3_83_21\_3_83_21\bin\Debug\_3_83_21.pdb
+D:\Programs\_3_83_21\_3_83_21\obj\Debug\_3_83_21.csproj.CoreCompileInputs.cache
+D:\Programs\_3_83_21\_3_83_21\obj\Debug\_3_83_21.exe
+D:\Programs\_3_83_21\_3_83_21\obj\Debug\_3_83_21.pdb
